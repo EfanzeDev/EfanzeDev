@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @EfanzeDev
-- 👀 I’m interested in Friday Night Funkin' and General Game Development
-- 🌱 I’m currently learning HaxeFlixel, Godot, and Unreal Engine V
-- 💞️ I’m looking to collaborate on Nothing, at the moment
-- 📫 How to reach me: You can't
+# I'm EfanzeDev.
+
+I mainly work on FNF projects, please form your opinion now.
