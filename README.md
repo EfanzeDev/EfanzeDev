@@ -1,13 +1,10 @@
-# **I'm EfanzeDev.**
+# ***I'm EfanzeDev.***
 
-To start, I used to mainly work on FNF projects, please form your opinion now.
-
-Still with me? You shouldn't be, but here we go.
+I'm a Game Developer that mainly works in Godot.<br>
+I have no idea what I'm doing sometimes, but I can get the job done if needed.
 
 ## I'm working on:
-* FNF Mods
-  * The ReFunked UI for FNF Psych Engine
-* Cityscape (TBA)
+* [Cityscape: Technical Showcase](https://gamejolt.com/games/cityscape-tech-demo/910832)
 
 ## I can code in these languages:
 * Basic Lua
