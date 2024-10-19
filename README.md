@@ -1,11 +1,11 @@
 # ***I'm EfanzeDev.***
 
-I'm a Game Developer that mainly works in Godot.
+I'm an independent game developer that mainly works in Godot.
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=EfanzeDev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Current Projects:
-* [Cityscape: Technical Showcase](https://gamejolt.com/games/cityscape-tech-demo/910832)
+* [Cityscape: Technical Showcase](https://efanzedev.itch.io/cityscape-technical-showcase)
 
 ## Language Proficiencies:
 * Java
@@ -13,5 +13,6 @@ I'm a Game Developer that mainly works in Godot.
 * Haxe
 * GDScript
 
-## Other Social Media:
-[My GameJolt](https://gamejolt.com/@EfanzeDev)
+## Find me here:
+- [Itch.io](https://efanzedev.itch.io/)
+- [GameJolt](https://gamejolt.com/@EfanzeDev)
